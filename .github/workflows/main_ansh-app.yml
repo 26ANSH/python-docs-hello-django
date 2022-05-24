@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ansh-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F0743BC9F494768AE4E9C0A3B51BE0A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FDA7ED83FE74B2DBF3A90C30CEAA6C2 }}
